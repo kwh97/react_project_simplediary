@@ -11,6 +11,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// react의 모든 요소들은 id=root인 div 안에 들어온다. 즉 app 태그는 <div id=root> 태그의 자식 태그라고 할 수 있다.
